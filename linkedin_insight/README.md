@@ -1,7 +1,3 @@
-Here is your updated `README.md` with the legal disclaimer in English:
-
----
-
 # LinkedIn Insight
 
 LinkedIn Insight is a Python-based tool for collecting and analyzing company information from LinkedIn. It provides insights into company structures, employees, and job listings.
