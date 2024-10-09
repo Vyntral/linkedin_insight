@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+python-dotenv
+graphviz
+Jinja2
+lxml
+
+brew install graphviz
